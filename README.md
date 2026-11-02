@@ -49,7 +49,7 @@ while True:
 c.close()
 s.close()
 ~~~
-Client.py
+## Client.py
 ~~~
 import socket
 c = socket.socket()
@@ -66,7 +66,7 @@ while True:
     print(f"MAC Address for {ip}: {mac}")
 c.close()
 ~~~
-## OUPUT - ARP
+## OUTPUT - ARP
 
 <img width="1235" height="392" alt="image" src="https://github.com/user-attachments/assets/00c02bbf-9040-43fe-84f9-73d71f8ce553" />
 
